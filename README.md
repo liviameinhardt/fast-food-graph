@@ -9,7 +9,11 @@ Após limpeza, os dados foram armazenados no arquivo "fastfood.csv".
 
 O grafo foi construido em Python, através (principalmente) das bibliotecas Networkx, Plotly, Dash no notebook "Grafo_Interface".
 
-O arquivo "grafo_completo.gpickle" aramzena o grafo criado e pode ser lido em outras aplicações.
+A pasta "Dados Reduzidos" foi criada para trabalhar com um conjunto menores de dados, de forma a entender melhor as ferramentas usadas e pode ser ignorada.
+
+O arquivo "grafo_completo.gpickle" armazena o grafo criado e pode ser lido em outras aplicações.
+
+
 
 
 
