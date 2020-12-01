@@ -7,7 +7,7 @@ Os dados foram extraidos do banco de dados relacional (dump incluido nesse repos
 
 Após limpeza, os dados foram armazenados no arquivo "fastfood.csv".
 
-O grafo foi cosntruido em Python, através (principalmente) das bibliotecas Networkx, Plotly, Dash no notebook "Grafo_Interface".
+O grafo foi construido em Python, através (principalmente) das bibliotecas Networkx, Plotly, Dash no notebook "Grafo_Interface".
 
 O arquivo "grafo_completo.gpickle" aramzena o grafo criado e pode ser lido em outras aplicações.
 
